@@ -1,0 +1,22 @@
+url = webbasUrl + url.substring(4);
+url.indexOf('mate') > 0 ? url = 'test' + url : url = webbasUrl + url;
+http://10.1.41.61:8074
+
+
+
+.ftl css iconfont 图标回退三级 ../../../   
+
+
+
+
+
+self join
+
+
+
+overflow: hidden;margin-bottom: 10vh  b1b305f7e82340cc9fbde8c19c0e3efe
+
+
+
+el-icon-plus12
+&#xe62b;
